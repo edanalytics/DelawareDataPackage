@@ -1,0 +1,9 @@
+school_year,fake_student_id,fake_school_id,test_name,test_period,opportunity_number,test_grade,test_content_area,test_start_date,test_end_date,test_sem,test_scale_score,test_performance_level,test_raw_score
+2014,100065,80,State Test,3,3,10,MAT,5/21/2014 8:02,,19.8297,900,4,32
+2014,95232,99,State Test,3,3,5,MAT,5/7/2014 13:43,,20.2068,769,3,29
+2014,106894,87,State Test,3,3,5,MAT,5/12/2014 10:25,,25.9666,850,4,41
+2014,107885,91,State Test,3,3,9,MAT,5/21/2014 7:30,,19.8323,793,2,22
+2014,115180,65,State Test,3,3,8,MAT,5/9/2014 8:01,,19.647499,766,1,21
+2014,86205,94,State Test,3,3,9,MAT,5/14/2014 9:45,,18.672199,866,3,26
+2014,105989,94,State Test,3,3,9,MAT,5/21/2014 7:56,,21.764999,740,1,16
+2014,114811,74,State Test,3,3,8,MAT,5/19/2014 10:16,,20.3263,878,4,34

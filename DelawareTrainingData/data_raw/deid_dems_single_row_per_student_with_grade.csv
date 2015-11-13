@@ -1,0 +1,12 @@
+fake_student_id,gender,race,race_descr,migrant_ind,homeless_ind,sped_ind,sped_code,sped_descr,low_income_ind,ell_status,grade
+114811,F,5,White,N,N,N,0,Regular-Ed,,N,7
+86205,M,2,Black,N,N,N,0,Regular-Ed,,N,6
+105989,F,2,Black,N,N,Y,300,Learning Disability,,N,4
+95232,M,5,White,N,N,N,0,Regular-Ed,Y,N,9
+91134,M,2,Black,N,N,N,0,Regular-Ed,N,N,3
+115180,M,5,White,N,N,Y,300,Learning Disability,N,N,6
+100065,F,5,White,N,N,N,0,Regular-Ed,N,N,5
+96592,M,6,Asian,N,N,N,0,Regular-Ed,N,N,3
+106894,M,5,White,N,N,N,0,Regular-Ed,,N,11
+109944,M,5,White,N,N,N,0,Regular-Ed,N,N,9
+107885,M,2,Black,N,N,N,0,Regular-Ed,,N,5
