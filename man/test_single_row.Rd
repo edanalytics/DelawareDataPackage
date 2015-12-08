@@ -4,11 +4,22 @@
 \name{test_single_row}
 \alias{test_single_row}
 \title{test_single_row}
-\format{A data frame with fourteen variables:  \code{school_year},
-\code{fake_student_id}, \code{fake_school_id}, \code{test_name},
-\code{test_period}, \code{opportunity_number}, \code{test_grade},
-\code{test_content_area}, \code{test_start_date}, \code{test_end_date},
-\code{test_sem}, \code{test_scale_score}, \code{test_performance_level}, and \code{test_raw_score}.}
+\format{\preformatted{'data.frame':	8 obs. of  14 variables:
+ $ school_year           : int  2014 2014 2014 2014 2014 2014 2014 2014
+ $ fake_student_id       : int  100065 95232 106894 107885 115180 86205 105989 114811
+ $ fake_school_id        : int  80 99 87 91 65 94 94 74
+ $ test_name             : Factor w/ 1 level "State Test": 1 1 1 1 1 1 1 1
+ $ test_period           : int  3 3 3 3 3 3 3 3
+ $ opportunity_number    : int  3 3 3 3 3 3 3 3
+ $ test_grade            : int  10 5 5 9 8 9 9 8
+ $ test_content_area     : Factor w/ 1 level "MAT": 1 1 1 1 1 1 1 1
+ $ test_start_date       : Factor w/ 8 levels "5/12/2014 10:25",..: 6 7 1 4 8 2 5 3
+ $ test_end_date         : logi  NA NA NA NA NA NA ...
+ $ test_sem              : num  19.8 20.2 26 19.8 19.6 ...
+ $ test_scale_score      : int  900 769 850 793 766 866 740 878
+ $ test_performance_level: int  4 3 4 2 1 3 1 4
+ $ test_raw_score        : int  32 29 41 22 21 26 16 34
+}}
 \usage{
 test_single_row
 }

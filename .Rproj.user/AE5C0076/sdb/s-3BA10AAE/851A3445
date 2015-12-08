@@ -1,0 +1,17 @@
+{
+    "contents" : "#' dems_single_row_student.\n#'\n#' Demographic data of students. One student per row of data.\n#' Short dataset with only 11 students and 11 variables.\n#'\n\"dems_single_row_student\"\n\n#' dems_single_row_student_wgrade.\n#'\n#' Demographic data of students. One student per row of data.\n#' Short dataset with only 11 students and 12 variables.\n#'\n\"dems_single_row_student_wgrade\"\n\n#' dems_single_row_year\n#'\n#' Demographic data of students. One student per row of data.\n#' Dataset has 74 students and 12 variables.\n#'\n\"dems_single_row_year\"\n\n#' test_multi_row\n#'\n#' Demographic data of students. One student per row of data.\n#' Dataset has 500 students and 14 variables.\n#'\n\"test_multi_row\"\n\n#' test_single_row\n#'\n#' Demographic data of students. One student per row of data.\n#' Dataset has 8 students and 14 variables.\n#'\n\"test_single_row\"\n\n#' data_ggplot2\n#'\n#' Demographic and test data of students. One student per row of data.\n#' Dataset has 40,559 students and 8 variables.\n#'\n\"data_ggplot2\"\n\n#' answer_2subset\n#'\n#' A dataset that can be used to check your answers to the do it yourself section of 2_subset.\n#'\n\"answer_2subset\"\n\n#' answer_3merge\n#'\n#' A dataset that can be used to check your answers to the do it yourself section of 3_merge.\n#'\n\"answer_3merge\"\n\n#' answer_4recode\n#'\n#' A dataset that can be used to check your answers to the do it yourself section of 4_recode.\n#'\n\"answer_4recode\"\n\n#' answer_5operations\n#'\n#' A dataset that can be used to check your answers to the do it yourself section of 5_operations.\n#'\n\"answer_5operations\"\n\n#' answer_6bygroup\n#'\n#' A dataset that can be used to check your answers to the do it yourself section of 6_by_group.\n#'\n\"answer_6bygroup\"\n\n#' answer_7transpose\n#'\n#' A dataset that can be used to check your answers to the do it yourself section of 7_transpose.\n#'\n\"answer_7transpose\"\n\n#' answer_9loop\n#'\n#' A variable that can be used to check your answers to the do it yourself section of 9_loop.\n#'\n\"answer_9loop\"\n",
+    "created" : 1449595032583.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "210663130",
+    "id" : "851A3445",
+    "lastKnownWriteTime" : 1449598076,
+    "path" : "~/GitHub/DelawareDataPackage/R/data.R",
+    "project_path" : "R/data.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
