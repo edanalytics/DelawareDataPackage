@@ -1,0 +1,17 @@
+{
+    "contents" : "dems_single_row_student <- read.csv(\"P:/GitHub/DelawareDataPackage/data_raw/deid_dems_single_row_per_student.csv\")\nsave(dems_single_row_student, file = \"data/dems_single_row_student.rdata\")\n\ndems_single_row_student_wgrade <- read.csv(\"P:/GitHub/DelawareDataPackage/data_raw/deid_dems_single_row_per_student_with_grade.csv\")\nsave(dems_single_row_student_wgrade, file = \"data/dems_single_row_student_wgrade.rdata\")\n\ndems_single_row_year <- read.csv(\"P:/GitHub/DelawareDataPackage/data_raw/deid_dems_single_row_per_year.csv\")\nsave(dems_single_row_year, file = \"data/dems_single_row_year.rdata\")\n\ntest_multi_row <- read.csv(\"P:/GitHub/DelawareDataPackage/data_raw/deid_test_multi_row.csv\")\nsave(test_multi_row, file = \"data/test_multi_row.rdata\")\n\ntest_single_row <- read.csv(\"P:/GitHub/DelawareDataPackage/data_raw/deid_test_single_row.csv\")\nsave(test_single_row, file = \"data/test_single_row.rdata\")\n\ndata_ggplot2 <- read.csv(\"P:/GitHub/DelawareDataPackage/data_raw/sample_test_data_ggplot2.csv\")\nsave(data_ggplot2, file = \"data/data_ggplot2.rdata\")\n\ndoit_yourself <- load(\"P:/GitHub/DelawareDataPackage/data_raw/answers_doit_yourself.Rdata\")\nfor(i in 1:length(doit_yourself)){\n  working <- get(doit_yourself[i])\n  save(working, file = paste0(\"data/\",doit_yourself[i],\".rdata\"))\n}\n\n",
+    "created" : 1449595421512.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1365017181",
+    "id" : "50968A7E",
+    "lastKnownWriteTime" : 1449595832,
+    "path" : "P:/GitHub/DelawareDataPackage/data_raw/save_data.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
