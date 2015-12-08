@@ -1,4 +1,4 @@
-Package: delaware_data_package
+Package: DelawareDataPackage
 Type: Package
 Title: This Package Stores Data Used in the Delaware Training Scripts
 Version: 0.1
