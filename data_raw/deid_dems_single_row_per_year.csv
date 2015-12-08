@@ -1,0 +1,75 @@
+fake_student_id,school_year,gender,race,race_descr,migrant_ind,homeless_ind,sped_ind,sped_code,sped_descr,low_income_ind,ell_status
+114811,2012,F,5,White,N,N,N,0,Regular-Ed,Y,N
+114811,2011,F,5,White,N,N,N,0,Regular-Ed,Y,N
+114811,2013,F,5,White,N,N,N,0,Regular-Ed,Y,N
+114811,2014,F,5,White,N,N,N,0,Regular-Ed,Y,N
+86205,2013,M,2,Black,N,N,N,0,Regular-Ed,N,N
+86205,2012,M,2,Black,N,N,N,0,Regular-Ed,N,N
+86205,2011,M,2,Black,N,N,N,0,Regular-Ed,N,N
+86205,2014,M,2,Black,N,N,N,0,Regular-Ed,N,N
+89244,2011,F,5,White,N,N,N,0,Regular-Ed,Y,N
+89244,2012,F,5,White,N,N,N,0,Regular-Ed,Y,N
+89244,2013,F,5,White,N,N,N,0,Regular-Ed,Y,N
+100140,2011,F,5,White,N,N,N,0,Regular-Ed,Y,N
+100140,2012,F,5,White,N,N,N,0,Regular-Ed,Y,N
+100140,2013,F,5,White,N,N,N,0,Regular-Ed,Y,N
+96252,2011,M,5,White,N,N,N,0,Regular-Ed,Y,N
+105989,2011,F,2,Black,N,N,Y,300,Learning Disability,Y,N
+105989,2014,F,2,Black,N,N,Y,300,Learning Disability,Y,N
+105989,2013,F,2,Black,N,N,Y,300,Learning Disability,Y,N
+105989,2012,F,2,Black,N,N,Y,300,Learning Disability,Y,N
+95232,2012,M,5,White,N,N,N,0,Regular-Ed,Y,N
+95232,2014,M,5,White,N,N,N,0,Regular-Ed,Y,N
+95232,2013,M,5,White,N,N,N,0,Regular-Ed,Y,N
+95232,2011,M,5,White,N,N,N,0,Regular-Ed,Y,Y
+91134,2012,M,2,Black,N,N,N,0,Regular-Ed,Y,N
+91134,2011,M,2,Black,N,N,N,0,Regular-Ed,Y,N
+91134,2013,M,2,Black,N,N,N,0,Regular-Ed,Y,N
+91134,2014,M,2,Black,N,N,N,0,Regular-Ed,N,N
+115180,2014,M,5,White,N,N,Y,300,Learning Disability,N,N
+115180,2013,M,5,White,N,N,Y,300,Learning Disability,N,N
+115180,2011,M,5,White,N,N,Y,300,Learning Disability,Y,N
+115180,2012,M,5,White,N,N,Y,300,Learning Disability,N,N
+100065,2012,F,5,White,N,N,N,0,Regular-Ed,N,N
+100065,2011,F,5,White,N,N,N,0,Regular-Ed,N,N
+100065,2014,F,5,White,N,N,N,0,Regular-Ed,N,N
+100065,2013,F,5,White,N,N,N,0,Regular-Ed,N,N
+91024,2011,F,2,Black,N,N,N,0,Regular-Ed,N,N
+96592,2013,M,6,Asian,N,N,N,0,Regular-Ed,N,N
+96592,2014,M,6,Asian,N,N,N,0,Regular-Ed,N,N
+96592,2012,M,6,Asian,N,N,N,0,Regular-Ed,N,N
+96592,2011,M,6,Asian,N,N,N,0,Regular-Ed,N,N
+106678,2011,F,6,Asian,N,N,N,0,Regular-Ed,N,N
+106678,2012,F,6,Asian,N,N,N,0,Regular-Ed,N,N
+106678,2013,F,6,Asian,N,N,N,0,Regular-Ed,N,N
+95050,2011,M,5,White,N,N,N,0,Regular-Ed,N,N
+95050,2013,M,5,White,N,N,N,0,Regular-Ed,N,N
+95050,2012,M,5,White,N,N,N,0,Regular-Ed,N,N
+89622,2012,F,5,White,N,N,N,0,Regular-Ed,N,N
+89622,2011,F,5,White,N,N,N,0,Regular-Ed,N,N
+97475,2013,M,5,White,N,N,Y,300,Learning Disability,N,N
+97475,2012,M,5,White,N,N,Y,300,Learning Disability,N,N
+97475,2011,M,5,White,N,N,Y,300,Learning Disability,N,N
+108121,2011,M,5,White,N,N,N,0,Regular-Ed,N,N
+106894,2012,M,5,White,N,N,N,0,Regular-Ed,N,N
+106894,2013,M,5,White,N,N,N,0,Regular-Ed,N,N
+106894,2014,M,5,White,N,N,N,0,Regular-Ed,N,N
+106894,2011,M,5,White,N,N,N,0,Regular-Ed,N,N
+115025,2013,M,6,Asian,N,N,N,0,Regular-Ed,N,N
+115025,2011,M,6,Asian,N,N,N,0,Regular-Ed,N,N
+115025,2012,M,6,Asian,N,N,N,0,Regular-Ed,N,N
+109018,2011,M,5,White,N,N,Y,300,Learning Disability,Y,N
+109018,2012,M,5,White,N,N,Y,300,Learning Disability,Y,N
+109121,2013,M,5,White,N,N,N,0,Regular-Ed,Y,N
+109121,2011,M,5,White,N,N,N,0,Regular-Ed,Y,N
+109121,2012,M,5,White,N,N,N,0,Regular-Ed,Y,N
+99216,2011,M,5,White,N,N,Y,601,Other Health Impairment,N,N
+109944,2014,M,5,White,N,N,N,0,Regular-Ed,N,N
+109944,2012,M,5,White,N,N,N,0,Regular-Ed,Y,N
+109944,2013,M,5,White,N,N,N,0,Regular-Ed,Y,N
+109944,2011,M,5,White,N,N,N,0,Regular-Ed,Y,N
+107885,2012,M,2,Black,N,N,N,0,Regular-Ed,Y,N
+107885,2013,M,2,Black,N,N,N,0,Regular-Ed,Y,N
+107885,2011,M,2,Black,N,N,N,0,Regular-Ed,Y,N
+107885,2014,M,2,Black,N,N,N,0,Regular-Ed,Y,N
+105442,2013,F,5,White,N,N,N,0,Regular-Ed,N,N

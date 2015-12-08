@@ -1,0 +1,10 @@
+Package: DelawareTrainingData
+Type: Package
+Title: This Package Stores Data Used in the Delaware Training Scripts
+Version: 0.1
+Date: 2015-11-06
+Authors@R: person("Zoe", "Russek", email = "zrussek@edanalytics.org", role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+LazyData: TRUE
+Imports: data.table
