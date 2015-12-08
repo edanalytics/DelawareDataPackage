@@ -1,16 +1,17 @@
-deid_dems_single_row_per_student <- read.csv("P:/GitHub/training/DelawareTrainingData/data_raw/deid_dems_single_row_per_student.csv")
-save(deid_dems_single_row_per_student, file = "data/deid_dems_single_row_per_student.rdata")
+dems_single_row_student <- read.csv("P:/GitHub/Delaware_Data_Package/data_raw/deid_dems_single_row_per_student.csv")
+save(dems_single_row_student, file = "data/dems_single_row_student.rdata")
 
-deid_dems_single_row_per_student_with_grade <- read.csv("P:/GitHub/training/DelawareTrainingData/data_raw/deid_dems_single_row_per_student_with_grade.csv")
-save(deid_dems_single_row_per_student_with_grade, file = "data/deid_dems_single_row_per_student_with_grade.rdata")
+dems_single_row_student_wgrade <- read.csv("P:/GitHub/Delaware_Data_Package/data_raw/deid_dems_single_row_per_student_with_grade.csv")
+save(dems_single_row_student_wgrade, file = "data/dems_single_row_student_wgrade.rdata")
 
-deid_dems_single_row_per_year <- read.csv("P:/GitHub/training/DelawareTrainingData/data_raw/deid_dems_single_row_per_year.csv")
-save(deid_dems_single_row_per_year, file = "data/deid_dems_single_row_per_year.rdata")
+dems_single_row_year <- read.csv("P:/GitHub/Delaware_Data_Package/data_raw/deid_dems_single_row_per_year.csv")
+save(dems_single_row_year, file = "data/dems_single_row_year.rdata")
 
-deid_test_multi_row <- read.csv("P:/GitHub/training/DelawareTrainingData/data_raw/deid_test_multi_row.csv")
-save(deid_test_multi_row, file = "data/deid_test_multi_row.rdata")
+test_multi_row <- read.csv("P:/GitHub/Delaware_Data_Package/data_raw/deid_test_multi_row.csv")
+save(test_multi_row, file = "data/test_multi_row.rdata")
 
-deid_test_single_row <- read.csv("P:/GitHub/training/DelawareTrainingData/data_raw/deid_test_single_row.csv")
-save(deid_test_single_row, file = "data/deid_test_single_row.rdata")
+test_single_row <- read.csv("P:/GitHub/Delaware_Data_Package/data_raw/deid_test_single_row.csv")
+save(test_single_row, file = "data/test_single_row.rdata")
 
-
+data_ggplot2 <- read.csv("P:/GitHub/Delaware_Data_Package/data_raw/sample_test_data_ggplot2.csv")
+save(data_ggplot2, file = "data/data_ggplot2.rdata")
