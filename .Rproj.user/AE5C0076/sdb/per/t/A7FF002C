@@ -1,0 +1,18 @@
+{
+    "contents" : "\n\n#' Data package for training code.\n#'\n#' This package contains data that can be used with the training code.\n#' The names of the data included are bellow.\n#'\n#' @seealso \\code{\\link{answer_2subset}}\n#' @seealso \\code{\\link{answer_3merge}}\n#' @seealso \\code{\\link{answer_4recode}}\n#' @seealso \\code{\\link{answer_5operations}}\n#' @seealso \\code{\\link{answer_6bygroup}}\n#' @seealso \\code{\\link{answer_7transpose}}\n#' @seealso \\code{\\link{answer_9loop}}\n#' @seealso \\code{\\link{data_ggplot2}}\n#' @seealso \\code{\\link{dems_single_row_student}}\n#' @seealso \\code{\\link{dems_single_row_student_wgrade}}\n#' @seealso \\code{\\link{dems_single_row_year}}\n#' @seealso \\code{\\link{test_multi_row}}\n#' @seealso \\code{\\link{test_single_row}}\n#'\n#' @docType package\n#' @name DelawareDataPackage\nNULL\n\n\n\n\n",
+    "created" : 1449598597052.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3910387240",
+    "id" : "A7FF002C",
+    "lastKnownWriteTime" : 1449601116,
+    "path" : "~/GitHub/DelawareDataPackage/R/pkgname.R",
+    "project_path" : "R/pkgname.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
