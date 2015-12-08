@@ -18,7 +18,6 @@ save(data_ggplot2, file = "data/data_ggplot2.rdata")
 
 doit_yourself <- load("P:/GitHub/DelawareDataPackage/data_raw/answers_doit_yourself.Rdata")
 for(i in 1:length(doit_yourself)){
-  working <- get(doit_yourself[i])
-  save(working, file = paste0("data/",doit_yourself[i],".rdata"))
+  save(list = (doit_yourself[i]),
+       file = paste0("data/",doit_yourself[i],".rdata"))
 }
-
