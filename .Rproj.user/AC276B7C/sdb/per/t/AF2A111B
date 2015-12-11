@@ -1,0 +1,17 @@
+{
+    "contents" : "library(data.table)\n\n# create dems_single_row_student\ndems_single_row_student <- fread(\"P:/GitHub/DelawareDataPackage/data_raw/deid_dems_single_row_per_student.csv\",\n                                 colClasses=\"character\")\nsave(dems_single_row_student, file = \"data/dems_single_row_student.rdata\")\n\n# create dems_single_row_student_wgrade\ndems_single_row_student_wgrade <- fread(\"P:/GitHub/DelawareDataPackage/data_raw/\n                                           deid_dems_single_row_per_student_with_grade.csv\", stringsAsFactors = FALSE)\nsave(dems_single_row_student_wgrade, file = \"data/dems_single_row_student_wgrade.rdata\")\n\n# create dems_single_row_year\ndems_single_row_year <- fread(\"P:/GitHub/DelawareDataPackage/data_raw/deid_dems_single_row_per_year.csv\",\n                                 colClasses=\"character\")\nsave(dems_single_row_year, file = \"data/dems_single_row_year.rdata\")\n\n# create test_multi_row\ntest_multi_row <- fread(\"P:/GitHub/DelawareDataPackage/data_raw/deid_test_multi_row.csv\",\n                        stringsAsFactors=FALSE,colClasses=\"character\")\nsave(test_multi_row, file = \"data/test_multi_row.rdata\")\n\n# create test_single_row\ntest_single_row <- fread(\"P:/GitHub/DelawareDataPackage/data_raw/deid_test_single_row.csv\",\n                            colClasses=\"character\")\nsave(test_single_row, file = \"data/test_single_row.rdata\")\n\n# create data_ggplot2\ndata_ggplot2 <- fread(\"P:/GitHub/DelawareDataPackage/data_raw/sample_test_data_ggplot2.csv\",\n                         colClasses = \"character\")\nsave(data_ggplot2, file = \"data/data_ggplot2.rdata\")\n\n# create files for do-it-yourself sections\ndoit_yourself <- load(\"P:/GitHub/DelawareDataPackage/data_raw/answers_doit_yourself.Rdata\")\nfor(i in 1:length(doit_yourself)){\n  save(list = (doit_yourself[i]),\n       file = paste0(\"data/\",doit_yourself[i],\".rdata\"))\n}\n",
+    "created" : 1449849885946.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3447531077",
+    "id" : "AF2A111B",
+    "lastKnownWriteTime" : 1449850604,
+    "path" : "~/GitHub/DelawareDataPackage/data_raw/save_data.R",
+    "project_path" : "data_raw/save_data.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
