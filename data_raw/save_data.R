@@ -6,8 +6,8 @@ dems_single_row_student <- fread("P:/GitHub/DelawareDataPackage/data_raw/deid_de
 save(dems_single_row_student, file = "data/dems_single_row_student.rdata")
 
 # create dems_single_row_student_wgrade
-dems_single_row_student_wgrade <- fread("P:/GitHub/DelawareDataPackage/data_raw/
-                                           deid_dems_single_row_per_student_with_grade.csv", stringsAsFactors = FALSE)
+dems_single_row_student_wgrade <- fread("P:/GitHub/DelawareDataPackage/data_raw/deid_dems_single_row_per_student_with_grade.csv",
+                                        stringsAsFactors = FALSE)
 save(dems_single_row_student_wgrade, file = "data/dems_single_row_student_wgrade.rdata")
 
 # create dems_single_row_year
