@@ -4,13 +4,10 @@
 \name{answer_6bygroup}
 \alias{answer_6bygroup}
 \title{answer_6bygroup}
-\format{\preformatted{Classes <U+0091>data.table<U+0092> and 'data.frame':	41 obs. of  5 variables:
- $ school_year           : chr  "2011" "2011" "2011" "2011" ...
- $ avg_perform           : num  2.38 2.38 2.38 2.38 2.38 ...
- $ test_period           : chr  "1" "3" "2" "3" ...
- $ test_performance_level: chr  "4" "4" "4" "0" ...
- $ count                 : int  1 1 1 1 1 1 1 1 1 1 ...
- - attr(*, "sorted")= chr "school_year"
+\format{\preformatted{Classes <U+0091>data.table<U+0092> and 'data.frame':	4 obs. of  3 variables:
+ $ school_year: chr  "2013" "2012" "2011" "2014"
+ $ avg_perform: num  2.84 2.79 2.38 2.53
+ $ count      : int  108 146 188 58
  - attr(*, ".internal.selfref")=<externalptr> 
 }}
 \usage{
