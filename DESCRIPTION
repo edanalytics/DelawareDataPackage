@@ -1,9 +1,10 @@
 Package: DelawareDataPackage
 Type: Package
 Title: This Package Stores Data Used in the Delaware Training Scripts
-Version: 0.1
-Date: 2015-11-06
-Authors@R: person("Zoe", "Russek", email = "zrussek@edanalytics.org", role = c("aut", "cre"))
+Version: 0.2
+Date: 2023-06-07
+Author: EA
+Maintainer: Julia Finch <jfinch@edanalytics.org>
 Description: More about what it does (maybe more than one line)
 License: What license is it under?
 LazyData: TRUE
